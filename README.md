@@ -1,2 +1,2 @@
-https://github.com/karolinabigaj/spa-projekt -> bazowe ropozytorium
-https://karolinabigaj.github.io/ -> widok zbuiltowanej strony
+[Bazowe repozytorium](https://github.com/karolinabigaj/spa-projekt)
+[Widok zbuiltowanej strony](https://karolinabigaj.github.io/)
